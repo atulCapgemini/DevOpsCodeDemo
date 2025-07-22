@@ -1,1 +1,3 @@
-name:NotificationAlert
+name: NotificationAlert
+on: 
+ workflow_dispatch: 
